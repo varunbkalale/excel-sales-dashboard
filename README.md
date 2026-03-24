@@ -20,7 +20,7 @@ This project presents a sales dashboard built in Excel to analyze revenue, profi
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](screenshots/Dashboard_overview.png)
 
 ---
 
